@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="863e3223-aa73-4612-a7fb-b56354726607" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dbc/algorithm/StringProcess/KMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dbc/algorithm/StringProcess/KMP.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +26,8 @@
       <file leaf-file-name="KMP.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dbc/algorithm/StringProcess/KMP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="205">
+              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -144,12 +144,12 @@
       <updated>1575724406076</updated>
       <workItem from="1575724409148" duration="3224000" />
       <workItem from="1576329977564" duration="1586000" />
-      <workItem from="1576337316242" duration="615000" />
+      <workItem from="1576337316242" duration="1479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5425000" />
+    <option name="totallyTimeSpent" value="6289000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dbc/algorithm/StringProcess/KMP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="205">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
         </state>
       </provider>
     </entry>
